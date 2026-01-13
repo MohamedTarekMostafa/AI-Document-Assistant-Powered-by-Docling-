@@ -10,7 +10,7 @@ Right now, it’s set up to chat
 3. **The Chips:** NVIDIA’s 2025 Annual Report.
 
 ### Why I used Docling
-Most libraries just "scrape" text. Docling is different—it converts everything to clean Markdown first. If you ask about NVIDIA’s revenue, the AI actually sees a table of numbers, not just a random string of digits. It makes the answers much more reliable.
+Most libraries just "scrape" text. Docling is different it converts everything to clean Markdown first. If you ask about NVIDIA’s revenue, the AI actually sees a table of numbers, not just a random string of digits. It makes the answers much more reliable.
 
 ### The Stack
 * **LLM:** Google Gemini 2.5 Flash (Super fast for this stuff).
@@ -41,6 +41,7 @@ You'll need two terminals open.
 <img width="590" height="908" alt="image" src="https://github.com/user-attachments/assets/fe198061-5a88-4807-bd18-c77ad32264b6" />
 <img width="477" height="742" alt="image" src="https://github.com/user-attachments/assets/7e4209d9-17a0-4b3d-9781-27f78ff9e9b4" />
 <img width="804" height="881" alt="image" src="https://github.com/user-attachments/assets/b756304d-6ee3-4108-ade3-375c7033d132" />
+
 
 
 
