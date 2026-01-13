@@ -1,0 +1,8 @@
+fastapi
+streamlit
+langchain
+docling
+pydantic
+chromadb
+langchain_core
+langchain_community
